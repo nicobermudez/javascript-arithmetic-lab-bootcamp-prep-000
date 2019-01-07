@@ -18,6 +18,11 @@ function divide(a,b) {
 function inc(n) {
   return n++
 }
+
+function dec(n) {
+  return n--
+}
+
 function makeInt(n) {
   
 }
